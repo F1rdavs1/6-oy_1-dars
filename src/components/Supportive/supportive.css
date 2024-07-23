@@ -1,0 +1,73 @@
+.supportive-section {
+    padding: 120px 0 110px;
+}
+.supportive-title{
+    text-align: center;
+    color: rgb(36, 47, 101);
+    font-family: Fraunces;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0.4px;
+}
+.supportive-text {
+    margin: 10px 0 60px;
+    text-align: center;
+    color: rgb(82, 86, 101);
+    font-family: Mulish;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.4px;
+}
+.supportive-img-wrapper1 {
+    display: flex;
+    align-items: center;
+}
+.supportive-img-wrapper2 {
+    display: flex;
+    align-items: center;
+}
+.supportive-img1{
+    margin-bottom: 86px;
+    display: flex;
+    flex-direction: column;
+    gap: 39px;
+    align-items: center;
+}
+.supportive-img2{
+    margin-bottom:86px;
+    display: flex;
+    flex-direction: column;
+    gap: 39px;
+    align-items: center;
+}
+.supportive-img3{
+    display: flex;
+    flex-direction: column;
+    gap: 39px;
+    align-items: center;
+}
+.supportive-img4{
+    display: flex;
+    flex-direction: column;
+    gap: 39px;
+    align-items: center;
+}
+
+.supportive-img-wrapper1 p {
+    color: rgb(36, 47, 101);
+    font-family: Fraunces;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 37.5px;
+    letter-spacing: 0.4px;
+}
+.supportive-img-wrapper2 p {
+    color: rgb(36, 47, 101);
+    font-family: Fraunces;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 37.5px;
+    letter-spacing: 0.4px;
+}
